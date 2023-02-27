@@ -1,0 +1,33 @@
+body{
+    background-color: #bde0fe;
+    color:white;
+}
+h1{
+    color:#9d4edd;
+    font-weight: 300;
+}
+span{
+    color:#6f2dbd;
+}
+
+#mainNav{
+    background-color: #b3beff;
+    font-weight: 100;
+    font-size: 1.25rem;
+    
+}
+#mainNav .navbar-brand{
+    color:#9d4edd;
+    font-weight: 300;
+}
+#mainNav span{
+    color:#6f2dbd;
+
+}
+#mainNav .nav-link{
+    color:white;
+    font-size: 1 rem;
+}
+#mainNav .nav-link:hover{
+    color:#e9d9f8;
+}
